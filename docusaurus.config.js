@@ -7,12 +7,12 @@ const config = {
   tagline: "Showcasing My Work and Thoughts",
   favicon: "img/favicon.ico",
 
-  url: "https://your-domain.com", // Replace with your actual domain
+  url: "https://zgirouard.github.io/zach-ui-portfolio/", // Replace with your actual domain
   baseUrl: "/",
 
-  organizationName: "your-org", // Replace with your GitHub org/user name
-  projectName: "my-ui-portfolio", // Replace with your repo/project name
-
+  organizationName: "ZGirouard", // Replace with your GitHub org/user name
+  projectName: "zach-ui-portfolio", // Replace with your repo/project name
+  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
