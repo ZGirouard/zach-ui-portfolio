@@ -7,8 +7,8 @@ const config = {
   tagline: "Showcasing My Work and Thoughts",
   favicon: "img/favicon.ico",
 
-  url: "https://zgirouard.github.io/zach-ui-portfolio/", // Replace with your actual domain
-  baseUrl: "/",
+  url: "https://Zgirouard.github.io", // Replace with your actual domain
+  baseUrl: "/zach-ui-portfolio",
 
   organizationName: "ZGirouard", // Replace with your GitHub org/user name
   projectName: "zach-ui-portfolio", // Replace with your repo/project name
@@ -54,7 +54,7 @@ const config = {
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/contact", label: "Contact", position: "right" },
           {
-            href: "https://github.com/your-org/my-ui-portfolio",
+            href: "https://github.com/ZGirouard/zach-ui-portfolio",
             label: "GitHub",
             position: "right",
           },
@@ -80,7 +80,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/your-org/my-ui-portfolio",
+                href: "https://github.com/ZGirouard/zach-ui-portfolio",
               },
             ],
           },
