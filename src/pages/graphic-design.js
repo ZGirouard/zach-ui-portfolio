@@ -1,10 +1,10 @@
 import React from 'react';
 import Layout from '@theme/Layout';
-import Folie from '../components/Folie-a-deux5.png';
-import Swimming from '../components/Swimming-V6.png';
-import Refuge from '../components/Refuge V8.png';
-import Quarters from '../components/Quarters-Of-Change-Tour-V2.png';
-import Portraits from '../components/Portraits-Poster.png';
+import Folie from '../components/Folie-a-deux-min.png';
+import Swimming from '../components/Swimming-V6-min.png';
+import Refuge from '../components/Refuge V8-min.png';
+import Quarters from '../components/Quarters-Of-Change-Tour-V2-min.png';
+import Portraits from '../components/Portraits-Poster-min.png';
 
 export default function AboutMe() {
   return (
