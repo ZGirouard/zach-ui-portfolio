@@ -13,7 +13,8 @@ export default function Projects() {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          margin: '80px',
+          margin: '60px',
+          marginBottom: '90px',
           flexWrap: 'wrap', // Enables wrapping
           textAlign: 'center'
         }}
@@ -40,7 +41,7 @@ export default function Projects() {
       <style jsx>{`
         .project-card {
           display: flex;
-          margin: 80px;
+          margin: 50px;
           flex-direction: column;
           align-items: center;
           max-width: 420px;
