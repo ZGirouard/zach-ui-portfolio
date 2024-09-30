@@ -3,7 +3,7 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
+  /* {
     title: 'Easy to Use',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
@@ -12,8 +12,20 @@ const FeatureList = [
         used to get your website up and running quickly.
       </>
     ),
-  },
+  }, */
+
   {
+    title: 'About Me',
+    description: (
+      <>
+        Hi! I'm Zach Girouard, a junior at the University of Nebraska - Lincoln
+        majoring in Computer Science with minors in Sociology and Advertising & Public
+        Relations. I hope you enjoy looking around my portfolio!
+      </>
+    ),
+  },
+
+  /* {
     title: 'Focus on What Matters',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
@@ -22,8 +34,9 @@ const FeatureList = [
         ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
-  },
-  {
+  }, */
+  
+  /* {
     title: 'Powered by React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
@@ -32,16 +45,18 @@ const FeatureList = [
         be extended while reusing the same header and footer.
       </>
     ),
-  },
+  },*/
+
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({title, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--12')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
+        <br></br>
+        <br></br>
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>

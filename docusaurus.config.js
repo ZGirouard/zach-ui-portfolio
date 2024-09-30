@@ -3,8 +3,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My UI Portfolio",
-  tagline: "Showcasing My Work and Thoughts",
+  title: "Zachary Girouard",
+  tagline: "Be the spaghetti against the wall",
   favicon: "img/favicon.ico",
 
   url: "https://Zgirouard.github.io", // Replace with your actual domain
@@ -13,7 +13,7 @@ const config = {
   organizationName: "ZGirouard", // Replace with your GitHub org/user name
   projectName: "zach-ui-portfolio", // Replace with your repo/project name
   trailingSlash: false,
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
 
   i18n: {
@@ -43,16 +43,17 @@ const config = {
     ({
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My UI Portfolio",
+        title: "Zachary Girouard",
         logo: {
           alt: "My UI Portfolio Logo",
-          src: "img/logo.svg",
+          src: "img/zg-logo.svg",
         },
         items: [
           { to: "/about-me", label: "About Me", position: "left" },
           { to: "/projects", label: "Projects", position: "left" },
+          { to: "/graphic-design", label: "Graphic Design", position: "left" },
           { to: "/blog", label: "Blog", position: "left" },
-          { to: "/contact", label: "Contact", position: "right" },
+          { to: "/contact", label: "Contact", position: "left" },
           {
             href: "https://github.com/ZGirouard/zach-ui-portfolio",
             label: "GitHub",
@@ -65,11 +66,15 @@ const config = {
         links: [
           {
             title: "About Me",
-            items: [{ label: "About Me", to: "/about-me" }],
+            items: [{ label: "About Me", to: "/about-me" },
+                    { label: "Graphic Design", to: "/graphic-design" },
+            ],
           },
           {
             title: "Projects",
-            items: [{ label: "Projects", to: "/projects" }],
+            items: [{ label: "Projects", to: "/projects" },
+                    { label: "Internship", to: "/internship" },
+                    { label: "Grocery Store", to: "/grocery" }],
           },
           {
             title: "Blog",
@@ -81,6 +86,10 @@ const config = {
               {
                 label: "GitHub",
                 href: "https://github.com/ZGirouard/zach-ui-portfolio",
+              },
+              {
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/in/zachary-girouard-85832525a/",
               },
             ],
           },
