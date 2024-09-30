@@ -10,8 +10,7 @@ export default function Projects() {
       <div 
       style={{
         display: 'flex',
-        margin: '40px',
-        marginBottom: '60px',
+        margin: '80px',
         alignItems: 'center',
         flexDirection: 'row',
         textAlign: "center"
@@ -70,6 +69,11 @@ export default function Projects() {
         </Link>
       </div>
       </div>
+      <style jsx>{`
+        .button:hover {
+          transform: scale(1.05);
+        }
+      `}</style>
     </Layout>
   );
 }

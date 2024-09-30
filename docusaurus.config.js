@@ -4,8 +4,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Zachary Girouard",
-  tagline: "Be the spaghetti against the wall",
-  favicon: "img/favicon.ico",
+  tagline: "''Be the spaghetti against the wall''",
+  favicon: "img/zg-logo.svg",
 
   url: "https://Zgirouard.github.io", // Replace with your actual domain
   baseUrl: "/zach-ui-portfolio",

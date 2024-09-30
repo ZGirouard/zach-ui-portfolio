@@ -13,6 +13,8 @@ export default function AboutMe() {
           marginLeft: 'auto',
           marginRight: 'auto',
           fontSize: '20px',
+          margin: '60px',
+          textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)',
         }}>
         <img 
           src={Headshot} 
