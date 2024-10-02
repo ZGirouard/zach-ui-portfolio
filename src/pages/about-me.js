@@ -19,10 +19,10 @@ export default function AboutMe() {
         <img 
           src={Headshot} 
           alt="My Headshot" 
-          style={{ flex: '1', borderRadius: '10px', maxWidth: '22em', height: 'auto', margin: '40px', padding: '40px' }} 
+          style={{ flex: '1', borderRadius: '10px', boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)', maxWidth: '22em', height: 'auto', margin: '80px', padding: '0px' }} 
         />
         <p
-        style={{ flex: '2', marginBottom: '20px', margin: '20px', padding: '30px' }} 
+        style={{ flex: '2', marginBottom: '20px', margin: '20px', padding: '30px', boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)' }} 
         >
         I’m a third year student at the University of Nebraska - Lincoln majoring in Computer Science with minors in Sociology and Advertising &amp; Public Relations. I’m passionate about creating accessible, aesthetic designs that give the user a phenomenal journey. Ideally, I would love to pursue a career as a UX Engineer, combining both my technical and creative skills. I’ve worked with the Digital Experience Team at UNL to design and implement web pages that receive thousands of visits. I have experience with a host of languages and technologies including, but not limited to: Adobe Photoshop, Adobe Illustrator, Figma, Java, and React. Outside of my career, I love skateboarding, collecting vinyl, graphic design, thrifting clothes, and going to concerts. Also, my favorite song right now is Breathe In by Frou Frou. Contact me with any questions you have!
         </p>

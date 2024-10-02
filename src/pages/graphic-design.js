@@ -15,12 +15,15 @@ export default function AboutMe() {
       <div style={{
         display: 'flex',
         alignItems: 'center',
-        padding: '20px',
-        margin: '20px'
+        padding: '0px',
+        margin: '0px'
         }}>
         <p style={{
           fontSize: '1.5rem',
+          margin: '0px',
           textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)',
+          boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)',
+          padding: '40px'
         }}>
         In my free time, I love to experiment with different design techniques and create posters and visuals with Adobe Photoshop, Adobe Illustrator, and Adobe InDesign. This hobby allows me to blend my artistic and technical skills, working on composition, color theory, and typography. Since I’m also a huge music fan, a lot of these pieces relate to albums or artists I enjoy. I’ve even received recognition from some of the artists themselves for my work. As part of this hobby, I want to continue to push myself and try new things. After all, I believe you can be successful by playing it safe, but I think you can only make something truly special by taking risks. From what I've created, these are some of my favorite pieces:
         </p>
@@ -40,6 +43,7 @@ export default function AboutMe() {
             flex: '1',
             margin: '5px',
             transition: 'transform 0.3s',
+            boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)',
             width: '100%',
             maxWidth: '310px',
             borderRadius: '10px'
@@ -52,6 +56,7 @@ export default function AboutMe() {
             flex: '1',
             margin: '5px',
             transition: 'transform 0.3s',
+            boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)',
             width: '100%',
             maxWidth: '310px',
             borderRadius: '10px'
@@ -64,6 +69,7 @@ export default function AboutMe() {
             flex: '1',
             margin: '5px',
             transition: 'transform 0.3s',
+            boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)',
             width: '100%',
             maxWidth: '310px',
             borderRadius: '10px'
@@ -76,6 +82,7 @@ export default function AboutMe() {
             flex: '1',
             margin: '5px',
             transition: 'transform 0.3s',
+            boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)',
             width: '100%',
             maxWidth: '310px',
             borderRadius: '10px'
@@ -88,6 +95,7 @@ export default function AboutMe() {
             flex: '1',
             margin: '5px',
             transition: 'transform 0.3s',
+            boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)',
             width: '100%',
             maxWidth: '310px',
             borderRadius: '10px'

@@ -15,7 +15,7 @@ const FeatureList = [
   }, */
 
   {
-    title: 'About Me',
+    title: 'Bio',
     description: (
       <>
         Hi! I'm Zach Girouard, a junior at the University of Nebraska - Lincoln
@@ -24,6 +24,7 @@ const FeatureList = [
       </>
     ),
   },
+
 
   /* {
     title: 'Focus on What Matters',
@@ -49,20 +50,28 @@ const FeatureList = [
 
 ];
 
-function Feature({title, description}) {
+function Feature({ title, description }) {
   return (
     <div className={clsx('col col--12')}>
-      <div className="text--center">
-      </div>
-      <div className="text--center padding-horiz--md">
-        <br></br>
-        <br></br>
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+      <div className="text--center" style={{ display: 'flex', justifyContent: 'center', margin: '60px'}}>
+        <div
+          style={{
+            boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)',
+            padding: '40px',
+            maxWidth: '800px',
+            margin: '0 auto' 
+          }}
+        >
+          <Heading as="h3">{title}</Heading>
+          <p>{description}</p>
+        </div>
       </div>
     </div>
   );
 }
+
+
+
 
 export default function HomepageFeatures() {
   return (
