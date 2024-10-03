@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Zgirouard.github.io/zach-ui-portfolio/blog</id>
     <title>Zachary Girouard Blog</title>
-    <updated>2024-09-27T14:30:00.000Z</updated>
+    <updated>2024-10-02T14:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Zgirouard.github.io/zach-ui-portfolio/blog"/>
     <subtitle>Zachary Girouard Blog</subtitle>
     <icon>https://Zgirouard.github.io/zach-ui-portfolio/img/zg-logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Reading - Design Systems]]></title>
+        <id>https://Zgirouard.github.io/zach-ui-portfolio/blog/DesignSystems</id>
+        <link href="https://Zgirouard.github.io/zach-ui-portfolio/blog/DesignSystems"/>
+        <updated>2024-10-02T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA["Style-guides are to designers as textbooks are to students"]]></summary>
+        <content type="html"><![CDATA[<p>"Style-guides are to designers as textbooks are to students"</p>
+<p>After reading these articles, I kept noticing how the Figma team mentioned keeping a centralized style-guide or set of rules for your product. These rules encompassed areas of typography, accessibility, localization, and many more, and they gave the designer the guidelines for keeping designs consistent and effective. I think this is very similar to how students use textbooks. When they first read a textbook, they get familiarized with the pre-established rules and strategies of their field of study. Then, as they venture off into their own projects, it's common for them to go back and reference these textbooks so they ensure they are following the rules properly. Both style-guides and textbooks help to enforce certain rules and empower the reader to better accomplish their tasks. As part of my current internship, I've already had to reference UNL's style-guide and their custom framework so I can ensure all UNL websites follow the same rules. In future careers, I don't doubt that I'll encounter new style-guides which I'll then use to help a company portray their brand properly. If I'm lucky, I might even get to contribute to one of these style-guides!</p>]]></content>
+        <category label="ApproximateAnalogy" term="ApproximateAnalogy"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Color Study]]></title>
         <id>https://Zgirouard.github.io/zach-ui-portfolio/blog/ColorStudy</id>
