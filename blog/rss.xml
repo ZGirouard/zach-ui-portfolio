@@ -4,10 +4,26 @@
         <title>Zachary Girouard Blog</title>
         <link>https://Zgirouard.github.io/zach-ui-portfolio/blog</link>
         <description>Zachary Girouard Blog</description>
-        <lastBuildDate>Fri, 04 Oct 2024 14:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 14:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Navigation & Values]]></title>
+            <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/NavigationValues</link>
+            <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/NavigationValues</guid>
+            <pubDate>Tue, 08 Oct 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[As part of this reading, I wanted to make a summarized tutorial on how to create effective navigation on a website. While there are endless nuances to each of these steps, I thought these were some of the most important points.]]></description>
+            <content:encoded><![CDATA[<p>As part of this reading, I wanted to make a summarized tutorial on how to create effective navigation on a website. While there are endless nuances to each of these steps, I thought these were some of the most important points.</p>
+<p>Tutorial: How to create effective navigation on a website:</p>
+<p>Step 1: Create a home link - Typically, this link will take the form a logo or specific typeface and reside on the top of the page. Users will then be able to use this link to navigate back to the homepage. It is common knowledge that these special designs should be links, so including the words "home" next to it is unnecessary.</p>
+<p>Step 2: Design a navigation menu - Have the most broad categories on the first level of the navigation menu, followed by secondary categories underneath each main one. When a user is on a certain page in the navigation menu, the corresponding text/block in the navigation menu should change to emphasize this.</p>
+<p>Step 3: Include a breadcrumb trail - A breadcrumb trail is useful for letting the user know where they are in the website. This should be done by including all the relevant pages the user took to get to where they are separated by a greater than "&gt;" sign. The current/final item in the breadcrumb menu should be bolded to show the user where they are.</p>
+<p>Step 4: Include a search feature - Somewhere near your navigation bar, include an input box with the word "search" somewhere near it, and a button. If the button doesn't contain the word search, include an appropriate word like "go" in the button. Search features should be easily understood, and should encompass the entire website unless otherwise specified. For example, if the user is only able to search for authors on the website, include "Search for author" near the box so as not to cause confusion.</p>
+<p><img decoding="async" loading="lazy" alt="Map" src="https://zgirouard.github.io/zach-ui-portfolio/assets/images/image-16-4bb816ac66869d04d62aee1808a2dae3.png" width="1074" height="806" class="img_ev3q"></p>
+<p>Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Dariusz Sankowski</a> on <a href="https://unsplash.com/photos/flat-ray-photography-of-book-pencil-camera-and-with-lens-3OiYMgDKJ6k?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>]]></content:encoded>
+            <category>Tutorial</category>
+        </item>
         <item>
             <title><![CDATA[Finding Inspiration]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/FindingInspiration</link>
@@ -32,13 +48,15 @@
             <category>FreeForm</category>
         </item>
         <item>
-            <title><![CDATA[Reading - Design Systems]]></title>
+            <title><![CDATA[Design Systems]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/DesignSystems</link>
             <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/DesignSystems</guid>
             <pubDate>Wed, 02 Oct 2024 14:30:00 GMT</pubDate>
             <description><![CDATA["Style-guides are to designers as textbooks are to students"]]></description>
             <content:encoded><![CDATA[<p>"Style-guides are to designers as textbooks are to students"</p>
-<p>After reading these articles, I kept noticing how the Figma team mentioned keeping a centralized style-guide or set of rules for your product. These rules encompassed areas of typography, accessibility, localization, and many more, and they gave the designer the guidelines for keeping designs consistent and effective. I think this is very similar to how students use textbooks. When they first read a textbook, they get familiarized with the pre-established rules and strategies of their field of study. Then, as they venture off into their own projects, it's common for them to go back and reference these textbooks so they ensure they are following the rules properly. Both style-guides and textbooks help to enforce certain rules and empower the reader to better accomplish their tasks. As part of my current internship, I've already had to reference UNL's style-guide and their custom framework so I can ensure all UNL websites follow the same rules. In future careers, I don't doubt that I'll encounter new style-guides which I'll then use to help a company portray their brand properly. If I'm lucky, I might even get to contribute to one of these style-guides!</p>]]></content:encoded>
+<p>After reading these articles, I kept noticing how the Figma team mentioned keeping a centralized style-guide or set of rules for your product. These rules encompassed areas of typography, accessibility, localization, and many more, and they gave the designer the guidelines for keeping designs consistent and effective. I think this is very similar to how students use textbooks. When they first read a textbook, they get familiarized with the pre-established rules and strategies of their field of study. Then, as they venture off into their own projects, it's common for them to go back and reference these textbooks so they ensure they are following the rules properly. Both style-guides and textbooks help to enforce certain rules and empower the reader to better accomplish their tasks. As part of my current internship, I've already had to reference UNL's style-guide and their custom framework so I can ensure all UNL websites follow the same rules. In future careers, I don't doubt that I'll encounter new style-guides which I'll then use to help a company portray their brand properly. If I'm lucky, I might even get to contribute to one of these style-guides!</p>
+<p><img decoding="async" loading="lazy" alt="textbook" src="https://zgirouard.github.io/zach-ui-portfolio/assets/images/image-17-cb7c428f986f3609d1b1daded5cff7ad.png" width="1170" height="780" class="img_ev3q"></p>
+<p>Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Alexander Grey</a> on <a href="https://unsplash.com/photos/assorted-books-on-wooden-table-eMP4sYPJ9x0?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>]]></content:encoded>
             <category>ApproximateAnalogy</category>
         </item>
         <item>
@@ -60,27 +78,31 @@
             <category>FreeForm</category>
         </item>
         <item>
-            <title><![CDATA[Reading - Colors I]]></title>
+            <title><![CDATA[Colors I]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/Colors1</link>
             <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/Colors1</guid>
             <pubDate>Tue, 24 Sep 2024 14:30:00 GMT</pubDate>
             <description><![CDATA[One thing that I found interesting in this section was when the book talked about after-images. It described how when you look at a color for a long time, the cones in your eyes can get tired and then when you look at a white wall, you will see the complementary color. It then described that this was the reason operating rooms were green and doctors wore green scrubs, because they are so focused on red in an operating room, that the green provides a sense of relief for their eyes. Whenever I've gone off to design my room, a poster, or a website, I've always had the idea in mind that all the colors should mix well together. For example, in designing my room, I'll typically stick with colors that are usually all cool or all warm, but rarely mix the two. This information, however, has made me rethink my ideas. After doing some more research, I found an article that describes how powerful complementary colors can be in interior design. It states that you should aim to have a color scheme that is roughly 75%-85% either warm or cool, and then mix in opposing elements to provide a sense of relief. After reading these two sections, it seems I have some redecorating to do.]]></description>
             <content:encoded><![CDATA[<p>One thing that I found interesting in this section was when the book talked about after-images. It described how when you look at a color for a long time, the cones in your eyes can get tired and then when you look at a white wall, you will see the complementary color. It then described that this was the reason operating rooms were green and doctors wore green scrubs, because they are so focused on red in an operating room, that the green provides a sense of relief for their eyes. Whenever I've gone off to design my room, a poster, or a website, I've always had the idea in mind that all the colors should mix well together. For example, in designing my room, I'll typically stick with colors that are usually all cool or all warm, but rarely mix the two. This information, however, has made me rethink my ideas. After doing some more research, I found an article that describes how powerful complementary colors can be in interior design. It states that you should aim to have a color scheme that is roughly 75%-85% either warm or cool, and then mix in opposing elements to provide a sense of relief. After reading these two sections, it seems I have some redecorating to do.</p>
-<p>Source: <a href="https://leatriceeiseman.com/color-theory-after-images/" target="_blank" rel="noopener noreferrer">https://leatriceeiseman.com/color-theory-after-images/</a></p>]]></content:encoded>
+<p>Source: <a href="https://leatriceeiseman.com/color-theory-after-images/" target="_blank" rel="noopener noreferrer">https://leatriceeiseman.com/color-theory-after-images/</a></p>
+<p><img decoding="async" loading="lazy" alt="operating room" src="https://zgirouard.github.io/zach-ui-portfolio/assets/images/image-18-9a8652011b842be22e4db8ba8399cccd.png" width="1191" height="776" class="img_ev3q"></p>
+<p>Photo by <a href="https://unsplash.com/@nci?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">National Cancer Institute</a> on <a href="https://unsplash.com/photos/man-in-white-dress-shirt-wearing-white-goggles-KrsoedfRAf4?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>]]></content:encoded>
             <category>FreeForm</category>
         </item>
         <item>
-            <title><![CDATA[Reading - Colors II]]></title>
+            <title><![CDATA[Colors II]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/Colors2</link>
             <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/Colors2</guid>
             <pubDate>Tue, 24 Sep 2024 14:30:00 GMT</pubDate>
             <description><![CDATA[Word: Aura]]></description>
             <content:encoded><![CDATA[<p>Word: Aura</p>
-<p>Throughout this section, the author goes on to describe the different colors and the attitudes surrounding them. For example, red is seen as aggressive, bold, and sensual whereas blue can be calm, open, and confident. I think this is something that I've picked up on throughout my life, but this is the first time I've seen it put into words. If I had to choose one word to describe this phenomenon, I would call it aura. Aura is the attitudes, feelings, and mental models we conjure up when we look at a certain color. Seeing a home filled with green plants reminds of the calmness and tranquility of nature. A person dressed in all yellow we might see as vibrant and outgoing. It's these auras surrounding colors that affect our everyday attitudes towards certain people, places, and things. I think this concept is important in my career as well because when I go and design logos, branding, and websites, I have to take a second to think about the aura or vibe of the company, and try to represent that in what I create. Not to mention, I can use these ideas in my personal projects to ensure that I'm communicating the proper feelings to the audience.</p>]]></content:encoded>
+<p>Throughout this section, the author goes on to describe the different colors and the attitudes surrounding them. For example, red is seen as aggressive, bold, and sensual whereas blue can be calm, open, and confident. I think this is something that I've picked up on throughout my life, but this is the first time I've seen it put into words. If I had to choose one word to describe this phenomenon, I would call it aura. Aura is the attitudes, feelings, and mental models we conjure up when we look at a certain color. Seeing a home filled with green plants reminds of the calmness and tranquility of nature. A person dressed in all yellow we might see as vibrant and outgoing. It's these auras surrounding colors that affect our everyday attitudes towards certain people, places, and things. I think this concept is important in my career as well because when I go and design logos, branding, and websites, I have to take a second to think about the aura or vibe of the company, and try to represent that in what I create. Not to mention, I can use these ideas in my personal projects to ensure that I'm communicating the proper feelings to the audience.</p>
+<p><img decoding="async" loading="lazy" alt="statue" src="https://zgirouard.github.io/zach-ui-portfolio/assets/images/image-19-f667e862657f051c96d1af1d862fb560.png" width="1031" height="580" class="img_ev3q"></p>
+<p>Photo by <a href="https://unsplash.com/@perotto?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Alexandre Perotto</a> on <a href="https://unsplash.com/photos/a-shadow-of-a-person-standing-next-to-a-statue-GGR8L-o_pWM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>]]></content:encoded>
             <category>WordJournal</category>
         </item>
         <item>
-            <title><![CDATA[Reading - Aesthetic Design]]></title>
+            <title><![CDATA[Aesthetic Design]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/AestheticDesign</link>
             <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/AestheticDesign</guid>
             <pubDate>Fri, 20 Sep 2024 14:30:00 GMT</pubDate>
@@ -218,17 +240,19 @@ How is the user going to interact with your UI? How are they going to access you
             <category>FreeForm</category>
         </item>
         <item>
-            <title><![CDATA[Reading - Design Rules]]></title>
+            <title><![CDATA[Design Rules]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/DesignRules</link>
             <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/DesignRules</guid>
             <pubDate>Fri, 13 Sep 2024 14:30:00 GMT</pubDate>
             <description><![CDATA[Word: Mindless]]></description>
             <content:encoded><![CDATA[<p>Word: Mindless</p>
-<p>This word stuck out to the most when reading this section. I think the word "mindless" typically has a negative connotation to it. This book argues, however, that keeping a webpage simple and mindless is they key to usability. It highlights the idea that users don't want to think as they navigate a website, it should be smooth sailing for them. Every time they encounter something unexpected, or that requires to much thinking, it turns them off from wanting to continue using the site. In order to enforce this principle, the author states that websites should have a clear hierarchy, good layout, and text that is as succinct as possible. This concept is important for me to remember in my career, because as a designer, I think it's common to think that your design is useable just because you yourself are able to use it. In order to become a great designer though, you have to really put yourself in someone else's shoes and see if your website is easy to use as someone with limited exposure.</p>]]></content:encoded>
+<p>This word stuck out to the most when reading this section. I think the word "mindless" typically has a negative connotation to it. This book argues, however, that keeping a webpage simple and mindless is they key to usability. It highlights the idea that users don't want to think as they navigate a website, it should be smooth sailing for them. Every time they encounter something unexpected, or that requires to much thinking, it turns them off from wanting to continue using the site. In order to enforce this principle, the author states that websites should have a clear hierarchy, good layout, and text that is as succinct as possible. This concept is important for me to remember in my career, because as a designer, I think it's common to think that your design is useable just because you yourself are able to use it. In order to become a great designer though, you have to really put yourself in someone else's shoes and see if your website is easy to use as someone with limited exposure.</p>
+<p><img decoding="async" loading="lazy" alt="brain" src="https://zgirouard.github.io/zach-ui-portfolio/assets/images/image-20-39668f3e3e425e8b542b1b73258627ab.png" width="1031" height="580" class="img_ev3q">
+Photo by <a href="https://unsplash.com/@averey?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Robina Weermeijer</a> on <a href="https://unsplash.com/photos/brown-brain-so1L3jsdD3Y?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>]]></content:encoded>
             <category>WordJournal</category>
         </item>
         <item>
-            <title><![CDATA[Reading - Schneiderman & Info Org]]></title>
+            <title><![CDATA[Schneiderman & Info Org]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/SchneidermanInfoOrg</link>
             <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/SchneidermanInfoOrg</guid>
             <pubDate>Fri, 06 Sep 2024 14:30:00 GMT</pubDate>
@@ -238,7 +262,7 @@ How is the user going to interact with your UI? How are they going to access you
             <category>DirectedAnalysis</category>
         </item>
         <item>
-            <title><![CDATA[Reading - Affordances & Signifiers I]]></title>
+            <title><![CDATA[Affordances & Signifiers I]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/AffordancesSignifiers1</link>
             <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/AffordancesSignifiers1</guid>
             <pubDate>Tue, 03 Sep 2024 14:30:00 GMT</pubDate>
@@ -250,7 +274,7 @@ How is the user going to interact with your UI? How are they going to access you
             <category>WordJournal</category>
         </item>
         <item>
-            <title><![CDATA[Reading - Affordances & Signifiers II]]></title>
+            <title><![CDATA[Affordances & Signifiers II]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/AffordancesSignifiers2</link>
             <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/AffordancesSignifiers2</guid>
             <pubDate>Tue, 03 Sep 2024 14:30:00 GMT</pubDate>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5710],{4293:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/zach-ui-portfolio/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":12,"nextPage":"/zach-ui-portfolio/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
