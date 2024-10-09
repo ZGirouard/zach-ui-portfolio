@@ -1,5 +1,5 @@
 ---
-title: Reading - Affordances & Signifiers I
+title: Affordances & Signifiers I
 slug: /AffordancesSignifiers1
 date: 2024-09-03T14:30:00Z
 tags: [wordjournal]

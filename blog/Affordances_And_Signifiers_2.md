@@ -1,5 +1,5 @@
 ---
-title: Reading - Affordances & Signifiers II
+title: Affordances & Signifiers II
 slug: /AffordancesSignifiers2
 date: 2024-09-03T14:30:00Z
 tags: [freeform]

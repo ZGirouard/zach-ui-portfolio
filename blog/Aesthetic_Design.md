@@ -1,5 +1,5 @@
 ---
-title: Reading - Aesthetic Design
+title: Aesthetic Design
 slug: /AestheticDesign
 date: 2024-09-20T14:30:00Z
 tags: [directedanalysis]

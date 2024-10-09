@@ -1,5 +1,5 @@
 ---
-title: Reading - Schneiderman & Info Org
+title: Schneiderman & Info Org
 slug: /SchneidermanInfoOrg
 date: 2024-09-06T14:30:00Z
 tags: [directedanalysis]
