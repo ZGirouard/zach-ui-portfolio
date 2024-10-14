@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Zgirouard.github.io/zach-ui-portfolio/blog</id>
     <title>Zachary Girouard Blog</title>
-    <updated>2024-10-08T14:30:00.000Z</updated>
+    <updated>2024-10-14T14:31:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Zgirouard.github.io/zach-ui-portfolio/blog"/>
     <subtitle>Zachary Girouard Blog</subtitle>
     <icon>https://Zgirouard.github.io/zach-ui-portfolio/img/zg-logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Final Project - Design System]]></title>
+        <id>https://Zgirouard.github.io/zach-ui-portfolio/blog/FPDesignSystem</id>
+        <link href="https://Zgirouard.github.io/zach-ui-portfolio/blog/FPDesignSystem"/>
+        <updated>2024-10-14T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[As a part of this project, I've created a Design System I will use and build off to create the wireframe and mockup.]]></summary>
+        <content type="html"><![CDATA[<p>As a part of this project, I've created a Design System I will use and build off to create the wireframe and mockup.</p>
+<p>Link to <a href="https://www.figma.com/design/RlttbYwz4mXmTSbtjaM6ET/Design-System?node-id=0-1&amp;t=zgQDQf37ooAErHLG-1">Design System</a></p>
+<p><img decoding="async" loading="lazy" alt="Design System" src="https://zgirouard.github.io/zach-ui-portfolio/assets/images/Design%20System-3e2f810429b00c956437e4452127b14f.png" width="6204" height="4751" class="img_ev3q"></p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Project - Values]]></title>
+        <id>https://Zgirouard.github.io/zach-ui-portfolio/blog/Values</id>
+        <link href="https://Zgirouard.github.io/zach-ui-portfolio/blog/Values"/>
+        <updated>2024-10-14T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Two core values of my UI:]]></summary>
+        <content type="html"><![CDATA[<p>Two core values of my UI:</p>
+<p>Authentic: In relation to the UI, authentic means that the website reflects the true spirit of skateboarding. It should be free-spirited, rebellious, and individualistic. Skateboarders can tell when someone is a “poser”, or only does something to try and gain validation. If my user feels that the interface is trying too hard to gain their validation, it will turn them off from the overall website.</p>
+<p>Expression: I want my UI to give skateboarders the freedom to express themselves through their skateboard design. Skateboarders like to express themselves through their clothes, tricks, music, and skateboards. If they feel like my UI doesn’t give them the ability to fully express their ideas, it will dissuade them from my website.</p>
+<p>How will I express these values in my UI:</p>
+<p>Authentic:</p>
+<ul>
+<li>Visual Aesthetic: I will use some of the raw, gritty elements of skateboarding and skateboarding culture. This includes the bright, yet rough colors of graffiti and skateparks. At the same time, I want it to have a sleek feel associated with the video games these skateboarders grew up on.</li>
+<li>Tone: I want my website to have a direct casual tone. I might choose to incorporate some of the slang used by skateboarders. This will help the UI feel more authentic and relatable, while not looking like it’s trying too hard.</li>
+<li>User-generated content: I want to include some form of user-generated content on the site. For example, this could be videos/pictures of users receiving/using their boards or gear, or custom designed decks. I think this would help promote a sense of community and help add to the authenticity of the site.</li>
+</ul>
+<p>Expression:</p>
+<ul>
+<li>Customization Options: I will include tools that allow users to design their own skateboard, choosing colors, graphics, and personal details. This feature will empower users to express their personal style through the website.</li>
+<li>Bold, Dynamic, Color Pallette: The UI will have loud, vibrant, high-contrast colors that reflect the energy of skateboarding. By allowing users to interact with bold elements, it will help them feel more comfortable in expressing their own creative interests.</li>
+<li>Interactive Features: Users will have the ability to submit their own designs for decks and wheels through design competitions. This will promote a sense of expression and community on the website, while also making the user feel like their voice matters in the community.</li>
+</ul>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navigation & Values]]></title>
         <id>https://Zgirouard.github.io/zach-ui-portfolio/blog/NavigationValues</id>
