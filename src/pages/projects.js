@@ -33,9 +33,9 @@ export default function Projects() {
         />
         <ProjectCard 
           imgSrc={Kiewit} 
-          title="In Progress..." 
-          description="As part of my senior design project, I'm currently working with a team of students to design, develop, and implement a cloud resource manager for Kiewit. This is a year-long process filled with sponsor meetings, releases, and a lot of development! Feel free to check back later and see how it turns out!"
-          link="/projects"
+          title="Senior Capstone" 
+          description="As part of my senior design project, I'm currently working with a team of students to design, develop, and implement a cloud resource manager for Kiewit. This is a year-long process filled with sponsor meetings, releases, and a lot of development! Feel free to check back for updates!"
+          link="/kiewit"
         />
       </div>
       <style jsx>{`
