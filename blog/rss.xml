@@ -4,10 +4,44 @@
         <title>Zachary Girouard Blog</title>
         <link>https://Zgirouard.github.io/zach-ui-portfolio/blog</link>
         <description>Zachary Girouard Blog</description>
-        <lastBuildDate>Mon, 14 Oct 2024 14:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 14:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Feedback Workshop]]></title>
+            <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/FeedbackWorkshop</link>
+            <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/FeedbackWorkshop</guid>
+            <pubDate>Thu, 17 Oct 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[Word: Empathetic]]></description>
+            <content:encoded><![CDATA[<p>Word: Empathetic</p>
+<p>When it comes to delivering or receiving design feedback, I think being empathetic is a vital skill. On the receiving end of feedback, it's very easy to get defensive about your design. After all, most designers pour hours upon hours of hard work into their projects. However, it's important to recognize that your subjective view isn't always what's most important. Just because a design is straightforward and aesthetic to you doesn't mean it is to your users. And if your users can't use your design, than what's the point. On the other hand, when giving others feedback, its important to be empathetic of their situation. Don't criticize them as a designer or user unnecessarily harmful language. Instead, politely express your viewpoints while also opening up the critique for discussion. This will often make the critiqued designer feel less defensive, and will help lead to more creative solutions. While it may seem obvious, I think its important that we remember to empathize with those working with  us and with those who will use our designs. Only then can we grow as designers and create the best possible solutions for everyone.</p>
+<p><img decoding="async" loading="lazy" alt="teamwork" src="https://zgirouard.github.io/zach-ui-portfolio/assets/images/priscilla-du-preez-XkKCui44iM0-unsplash-5108fb2f60555765441ab1a9c15841a3.jpg" width="5472" height="3648" class="img_ev3q"></p>
+<p>Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/photos/three-men-laughing-while-looking-in-the-laptop-inside-room-XkKCui44iM0?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>]]></content:encoded>
+            <category>WordJournal</category>
+        </item>
+        <item>
+            <title><![CDATA[Portfolios and Design Narratives]]></title>
+            <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/PorfoliosNarratives</link>
+            <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/PorfoliosNarratives</guid>
+            <pubDate>Thu, 17 Oct 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[How to create a successful UX Portfolio:]]></description>
+            <content:encoded><![CDATA[<p>How to create a successful UX Portfolio:</p>
+<ol>
+<li>
+<p>Homepage: Create a visually stunning homepage that fits the theme of your brand/projects. This could be through neon colors, a pastel color palette, interesting typography, etc. On the homepage, include your name, occupation, designer statement, links/thumbnails to case studies. and navigation. Make it easy for your user to see more of your portfolio.</p>
+</li>
+<li>
+<p>Case Study Thumbnails: Your case study thumbnails will link your user to the different projects you worked on. This part is even more important than your landing page because it showcases your skills and talent. Case study thumbnails should be enticing and work both individually and together. The background should harmonize, and the same device mockup style should be used for each thumbnail.</p>
+</li>
+<li>
+<p>UX Case Studies: Probably the most important aspect of your portfolio, you should display UX case studies prominently on your portfolio. These case studies should include your logical thought processes throughout the project, and any soft/hard skills you gained/used on the project. Additionally, you should talk about your design process, and how you incorporated UX design methods as part of this process. Finally, you should express openness to feedback and a desire to improve on each study.</p>
+</li>
+</ol>
+<p><img decoding="async" loading="lazy" alt="portfolio" src="https://zgirouard.github.io/zach-ui-portfolio/assets/images/ben-kolde-bs2Ba7t69mM-unsplash-a1d8ddf639a9119a67640930eb24af01.jpg" width="3456" height="4408" class="img_ev3q">
+Photo by <a href="https://unsplash.com/@benkolde?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Ben Kolde</a> on <a href="https://unsplash.com/photos/white-and-black-laptop-bs2Ba7t69mM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>]]></content:encoded>
+            <category>Tutorial</category>
+        </item>
         <item>
             <title><![CDATA[Final Project - Design System]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/FPDesignSystem</link>
