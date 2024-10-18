@@ -4,10 +4,21 @@
         <title>Zachary Girouard Blog</title>
         <link>https://Zgirouard.github.io/zach-ui-portfolio/blog</link>
         <description>Zachary Girouard Blog</description>
-        <lastBuildDate>Thu, 17 Oct 2024 14:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 14:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Steezy Mockup]]></title>
+            <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/SteezyMockup</link>
+            <guid>https://Zgirouard.github.io/zach-ui-portfolio/blog/SteezyMockup</guid>
+            <pubDate>Fri, 18 Oct 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[Below is the link to my early mockups for the brand new skateboarding e-commerce site Steezy. It features a custom skateboard builder interface that allows the user to view a]]></description>
+            <content:encoded><![CDATA[<p>Below is the link to my early mockups for the brand new skateboarding e-commerce site Steezy. It features a custom skateboard builder interface that allows the user to view a
+real-time 3D render of the skateboard they are desiging. Feel free to take a look here: <a href="https://www.figma.com/design/txeMtlpXcDTCcPVR7Egzr7/Steezy?node-id=0-1&amp;t=bfpq19Bg2dR5iR9e-1" target="_blank" rel="noopener noreferrer">https://www.figma.com/design/txeMtlpXcDTCcPVR7Egzr7/Steezy?node-id=0-1&amp;t=bfpq19Bg2dR5iR9e-1</a></p>
+<p><img decoding="async" loading="lazy" alt="homepage" src="https://zgirouard.github.io/zach-ui-portfolio/assets/images/Homepage-dc30d994e360ab0eec50f11a35070b95.png" width="1440" height="1024" class="img_ev3q"></p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
         <item>
             <title><![CDATA[Mockups]]></title>
             <link>https://Zgirouard.github.io/zach-ui-portfolio/blog/Mockups</link>
